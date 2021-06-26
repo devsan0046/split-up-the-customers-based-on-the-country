@@ -1,0 +1,256 @@
+Customer Name	Customer ID	Customer open date	Last consulted date	Country	Vaccination type	State	Date of birth	Postal code	Active customer
+Mechelle Stoneman	292494523	1/27/2011	02-12-2011	Chad	Pfizer-BioNTech.	Alabama	4/24/2015	4484	A
+Tyesha Freitag	361825549	12/28/2015	1/23/2016	Latvia	Moderna.	Alaska	4/26/2017	1075	A
+Dean Stoecker	141515767	1/13/2011	02-01-2011	Pakistan	Johnson & Johnson's Janssen.	Arizona	11/16/2010	6515	A
+Annelle Pickney	500364005	09-11-2012	10-06-2012	Democratic Republic of the Congo	mRNA Vaccines.	Arkansas	7/22/2015	7683	A
+Margareta Tacy	127481591	10/27/2015	12-05-2015	Czech Republic	Viral Vector Vaccines.	California	2/17/2014	3491	A
+Meghann Placencia	482292354	07-10-2012	8/21/2012	South Africa	Pfizer-BioNTech.	Colorado	12-11-2016	9880	A
+Kendrick Cieslak	844532620	2/20/2011	3/20/2011	Laos	Moderna.	Connecticut	09-07-2012	4825	A
+Polly Isenberg	564251220	04-10-2017	05-12-2017	China	Johnson & Johnson's Janssen.	Delaware	1/14/2010	3330	A
+Evelyne Racicot	411809480	11/21/2014	01-10-2015	Eritrea	mRNA Vaccines.	District of Columbia	03-07-2011	2431	A
+Augustus Delaune	327881228	07-04-2015	7/20/2015	Haiti	Viral Vector Vaccines.	Florida	7/27/2015	6197	A
+Shawanda Client	773452794	7/26/2016	8/24/2016	Zambia	Pfizer-BioNTech.	Georgia	2/25/2016	724	A
+Loura Coffield	479823005	10/20/2012	11/15/2012	Bosnia and Herzegovina	Moderna.	Hawaii	9/25/2010	9145	A
+Lorriane Machin	498603188	2/22/2015	2/27/2015	Germany	Johnson & Johnson's Janssen.	Idaho	4/26/2013	6618	A
+Lacey Osier	151717174	8/27/2016	09-02-2016	India	mRNA Vaccines.	Illinois	6/23/2012	5338	A
+Nicki Malchow	181401288	6/21/2011							
+Sidney Bodiford	500204360	9/19/2013	10-04-2013	Chad	Pfizer-BioNTech.	Iowa	12-06-2016	441	N
+Barbie Cun	640987718	11/15/2015	11/30/2015	Latvia	Moderna.	Kansas	04-05-2012	1365	N
+Elden Hanshaw	206925189	04-06-2015	4/27/2015	Pakistan	Johnson & Johnson's Janssen.	Kentucky	7/15/2014	2617	N
+Blossom Loggins	221503102	04-12-2010	5/19/2010	Democratic Republic of the Congo	mRNA Vaccines.	Louisiana	1/29/2010	6545	N
+Joseph Dennie	878520286	9/26/2011	10-02-2011	Czech Republic	Viral Vector Vaccines.	Maine	10-11-2012	2530	N
+Pattie Markley	192088067	5/14/2016	6/18/2016	South Africa	Pfizer-BioNTech.	Maryland	11/16/2014	1983	N
+Genevieve Spahn	746630275	8/14/2010	8/31/2010	Laos	Moderna.	Massachusetts	6/17/2013	3345	N
+Luciano Jaworski	246883237	4/13/2012	4/22/2012	China	Johnson & Johnson's Janssen.	Michigan	04-06-2014	7091	N
+Noe Mahler	967895781	9/19/2013	9/28/2013	Eritrea	mRNA Vaccines.	Minnesota	9/16/2012	725	N
+Karri Bransford	305029237	12-02-2015	12/26/2015	Haiti	Viral Vector Vaccines.	Mississippi	11/16/2012	3784	N
+Larae Bonney	223957431	2/26/2017	2/28/2017	Zambia	Pfizer-BioNTech.	Missouri	02-12-2016	2835	N
+Sharita Fierros	510666692	10-09-2016	10/13/2016	Bosnia and Herzegovina	Moderna.	Montana	04-06-2017	6477	N
+Frederica Perla	121455848	5/20/2011	6/19/2011	Germany	Johnson & Johnson's Janssen.	Nebraska	01-06-2016	339	N
+Mara Elder	332936227	10/24/2013	12-03-2013	India	mRNA Vaccines.	Nevada	2/16/2013	2083	N
+Enola Volz	692031657	6/14/2011	7/20/2011	Chad	Viral Vector Vaccines.	New Hampshire	3/20/2014	6401	N
+Leslie Mccardell	365978467	6/20/2015	7/21/2015	Latvia	Pfizer-BioNTech.	New Jersey	10/20/2010	16	N
+Gina Coria	392325484	08-05-2011	09-01-2011	Pakistan	Moderna.	New Mexico	5/31/2014	6684	N
+Marietta Taing	528934037	11/30/2016	01-09-2017	Democratic Republic of the Congo	Johnson & Johnson's Janssen.	New York	12-03-2014	2191	N
+Karlyn Buchholtz	603977954	07-05-2015	7/29/2015	Czech Republic	mRNA Vaccines.	North Carolina	8/16/2014	9353	N
+Herma Renken	965943562	3/25/2015	05-09-2015	South Africa	Viral Vector Vaccines.	North Dakota	11/18/2016	3020	N
+Gertrud Gillispie	233629691	8/22/2013	8/30/2013	Laos	Pfizer-BioNTech.	Ohio	10-06-2014	5072	N
+Kelsie Lavoie	246147668	12-11-2016	1/13/2017	China	Moderna.	Oklahoma	7/17/2017	9420	N
+Selena Jenney	212921321	6/23/2013	7/18/2013	Eritrea	Johnson & Johnson's Janssen.	Oregon	8/19/2016	7005	N
+Teri Schooley	763686978	05-08-2015	5/13/2015	Haiti	mRNA Vaccines.	Pennsylvania	1/30/2012	803	N
+Lizette Campana	798493468	10/24/2016	11/24/2016	Zambia	Viral Vector Vaccines.	Rhode Island	05-11-2016	816	N
+Mayra Luby	637702119	03-10-2013	04-04-2013	Bosnia and Herzegovina	Pfizer-BioNTech.	South Carolina	9/17/2012	9083	N
+Luisa Finneran	671986758	3/18/2012	05-04-2012	Germany	Moderna.	South Dakota	12/16/2011	4670	N
+Genoveva Herrod	912333714	02-11-2015	03-02-2015	India	Johnson & Johnson's Janssen.	Tennessee	10/30/2010	8675	N
+Tandra Toon	540041816	10/30/2012	11-03-2012	Chad	mRNA Vaccines.	Texas	12-01-2010	9229	N
+Zoe Mangrum	156722390	07-06-2012	08-01-2012	Latvia	Viral Vector Vaccines.	Utah	11-12-2014	6493	N
+Marquerite Salaam	434299266	01-04-2011	2/21/2011	Pakistan	Pfizer-BioNTech.	Vermont	1/13/2015	7659	A
+Alva Fonte	765008771	10/25/2013	12-10-2013	Democratic Republic of the Congo	Moderna.	Virginia	06-03-2012	1950	A
+Maudie Cage	611399734	2/16/2016	3/22/2016	Czech Republic	Johnson & Johnson's Janssen.	Washington	11/13/2012	5623	A
+Hilde Greaves	856333482	3/16/2014	4/27/2014	South Africa	mRNA Vaccines.	West Virginia	9/20/2015	6962	A
+Christiana Rippe	652983844	9/24/2016	10/29/2016	Laos	Viral Vector Vaccines.	Wisconsin	01-04-2010	1285	A
+Bulah Warr	574837148	9/30/2010	11-11-2010	China	Pfizer-BioNTech.	Wyoming	2/22/2016	5941	A
+Azzie Stolte	365692222	11-05-2010	12-05-2010	Eritrea	Moderna.	Alabama	12-09-2013	5310	A
+Sharri Whistler	289660394	7/21/2017	8/22/2017	Haiti	Johnson & Johnson's Janssen.	Alaska	7/24/2014	5802	A
+Rebecka Holliman	681165492	07-10-2013	7/26/2013	Zambia	mRNA Vaccines.	Arizona	4/26/2011	861	A
+Bryce Muse	594943845	10-06-2012	10/21/2012	Bosnia and Herzegovina	Viral Vector Vaccines.	Arkansas	9/19/2013	5959	A
+Merideth Marcus	956044280	06-04-2011	7/24/2011	Germany	Pfizer-BioNTech.	California	5/30/2013	3603	A
+Nova Boden	509828126	04-12-2014	4/15/2014	India	Moderna.	Colorado	09-07-2010	8327	A
+Granville Watchman	771969211	10/26/2015	12/15/2015	South Africa	Johnson & Johnson's Janssen.	Connecticut	09-02-2010	1699	A
+Marquerite Dearborn	178453862	08-04-2011	8/27/2011	Laos	mRNA Vaccines.	Delaware	01-01-2012	7318	A
+Arielle Ketcham	835580909	2/24/2017	4/14/2017	China	Viral Vector Vaccines.	District of Columbia	7/30/2010	5814	A
+Shona Buggs	869961678	3/30/2011	04-12-2011	Eritrea	Pfizer-BioNTech.	Florida	12/13/2010	9848	A
+Aleta Ciesla	278519999	05-02-2015	6/14/2015	Haiti	Moderna.	Georgia	12-09-2014	9112	A
+Jenni Wichman	478492200	02-01-2014	2/26/2014	Zambia	Johnson & Johnson's Janssen.	Hawaii	4/14/2010	5330	A
+Cuc Phinney	257427108	03-03-2012	04-10-2012	Bosnia and Herzegovina	mRNA Vaccines.	Idaho	4/20/2012	7257	A
+Danica Fleig	723186051	4/22/2015	5/13/2015	Germany	Viral Vector Vaccines.	Illinois	8/26/2014	5678	A
+Shaquana Emigh	353942859	05-12-2011	5/15/2011	India	Pfizer-BioNTech.	Indiana	11-02-2015	8412	A
+Brinda Master	848183858	12/21/2011	1/18/2012	Chad	Moderna.	Iowa	06-09-2015	5307	A
+Janell Hinojos	374707877	12-02-2010	12/25/2010	Latvia	Johnson & Johnson's Janssen.	Kansas	4/21/2010	3243	A
+Karri Celestin	322626245	8/14/2010	9/16/2010	Pakistan	mRNA Vaccines.	Kentucky	07-02-2013	1130	A
+Enid Bouley	351362788	10-05-2010	11/14/2010	Democratic Republic of the Congo	Viral Vector Vaccines.	Louisiana	8/26/2012	4912	A
+Desire Klenke	640653836	02-08-2012	3/18/2012	Czech Republic	Pfizer-BioNTech.	Maine	08-06-2011	2562	A
+Brian Chamberlain	540548217	09-08-2012	9/20/2012	South Africa	Moderna.	Maryland	06-10-2011	9084	A
+Kristeen Farabaugh	821407258	08-11-2011	8/19/2011	Laos	Johnson & Johnson's Janssen.	Massachusetts	5/13/2014	1516	A
+Gilda Vanatta	523904788	10/28/2012	11-07-2012	China	mRNA Vaccines.	Michigan	04-02-2012	3924	A
+Princess Bumbrey	109027135	10-11-2013	10/27/2013	Eritrea	Viral Vector Vaccines.	Minnesota	3/14/2013	2407	A
+Earlie Townson	108073127	10-06-2016	10/20/2016	Haiti	Pfizer-BioNTech.	Mississippi	01-02-2015	95	A
+Fumiko Laliberte	672654092	7/28/2017	7/31/2017	Zambia	Moderna.	Missouri	7/13/2016	2148	A
+Sherie Chason	224693858	11-04-2016	11/25/2016	Bosnia and Herzegovina	Johnson & Johnson's Janssen.	Montana	12-04-2013	761	A
+Gricelda Maravilla	406428754	04-12-2016	05-01-2016	Germany	mRNA Vaccines.	Nebraska	12/19/2011	155	A
+Serafina Knoll	230407607	11/13/2014	12/20/2014	India	Viral Vector Vaccines.	Nevada	9/17/2012	1586	A
+Sachiko Younkin	129491746	8/26/2012	9/22/2012	Chad	Pfizer-BioNTech.	New Hampshire	9/20/2011	8340	A
+Jena Noles	606854999	7/15/2014	8/15/2014	Latvia	Moderna.	New Jersey	12/16/2016	735	A
+Shelby Wiser	885983693	05-02-2011	05-04-2011	Pakistan	Johnson & Johnson's Janssen.	New Mexico	10-04-2014	1118	A
+Margareta Spies	260676658	11-11-2013	12/17/2013	Democratic Republic of the Congo	mRNA Vaccines.	New York	06-06-2011	8871	A
+Dinorah Furey	345045220	4/14/2011	5/20/2011	Czech Republic	Viral Vector Vaccines.	North Carolina	5/13/2014	5403	N
+Kiyoko Lechuga	123513209	10-04-2012	11/21/2012	South Africa	Pfizer-BioNTech.	North Dakota	1/27/2013	9158	N
+Danny Kreger	900816953	5/14/2013	06-10-2013	Laos	Moderna.	Ohio	4/16/2013	609	N
+Nolan Fenwick	452005279	01-12-2013	02-02-2013	China	Johnson & Johnson's Janssen.	Oklahoma	06-11-2010	7261	N
+Lesli Unrein	672439515	10-03-2012	11-12-2012	Eritrea	mRNA Vaccines.	Oregon	03-07-2016	8650	N
+Donya Bartle	827793490	10/23/2010	11/20/2010	Haiti	Viral Vector Vaccines.	Pennsylvania	9/14/2016	1344	N
+Palma Flanery	704053533	02-06-2014	3/28/2014	Zambia	Pfizer-BioNTech.	Rhode Island	06-06-2014	3941	N
+Kenny Clothier	157518470	09-04-2011	09-04-2011	Bosnia and Herzegovina	Moderna.	South Carolina	8/14/2016	2070	N
+Kristen Lossing	464799630	05-12-2016	6/26/2016	Germany	Johnson & Johnson's Janssen.	South Dakota	6/18/2016	3394	N
+Karoline Felix	272820842	7/19/2015	8/20/2015	India	mRNA Vaccines.	Tennessee	12/29/2011	2605	N
+Alan Voll	548818433	10/28/2012	11/24/2012	Chad	Viral Vector Vaccines.	Texas	6/17/2017	6425	N
+Glenda Woolfolk	530341231	8/25/2016	9/25/2016	Latvia	Pfizer-BioNTech.	Utah	02-05-2014	8611	N
+Alyson Hosack	875250566	10/25/2013	11-03-2013	Pakistan	Moderna.	Vermont	07-01-2014	4947	N
+Francis Sines	511720263	02-11-2011	2/26/2011	Democratic Republic of the Congo	Johnson & Johnson's Janssen.	Virginia	5/19/2013	8252	N
+Riley Bagnall	688236653	5/27/2016	6/13/2016	Czech Republic	mRNA Vaccines.	Washington	02-08-2014	3375	N
+Carmina Camp	923598563	02-06-2012	2/26/2012	South Africa	Viral Vector Vaccines.	West Virginia	4/27/2017	2194	N
+Alethia Tiemann	356917321	12/25/2011	02-04-2012	Laos	Pfizer-BioNTech.	Wisconsin	2/23/2017	8622	N
+Deborah Molinar	897616755	12/13/2011	1/20/2012	China	Moderna.	Wyoming	7/30/2012	3600	N
+Marvella Huckstep	475433194	7/20/2016	8/19/2016	Eritrea	Johnson & Johnson's Janssen.	Alabama	3/25/2011	102	N
+Sallie Briley	690415465	6/18/2012	7/14/2012	Haiti	mRNA Vaccines.	Alaska	06-04-2010	8134	N
+Scottie Backer	962924897	2/23/2010	04-12-2010	Zambia	Viral Vector Vaccines.	Arizona	2/19/2016	9730	N
+Beatriz Kinsey	783635318	05-05-2017	05-09-2017	Bosnia and Herzegovina	Pfizer-BioNTech.	Arkansas	6/14/2016	3960	N
+Mason Carrow	163533055	7/23/2012	8/13/2012	Germany	Moderna.	California	09-08-2015	1920	N
+Regenia Blish	983916938	01-11-2017	1/17/2017	India	Johnson & Johnson's Janssen.	Colorado	06-04-2015	1742	N
+Necole Faria	246398293	03-07-2015	4/14/2015	Chad	mRNA Vaccines.	Connecticut	9/29/2010	3585	N
+Samantha Hadfield	422900950	06-09-2011	07-05-2011	Latvia	Viral Vector Vaccines.	Delaware	9/19/2016	4644	N
+Lida Sing	905661237	4/17/2011	06-05-2011	Pakistan	Pfizer-BioNTech.	District of Columbia	8/18/2011	4141	N
+Bette Church	257227981	07-07-2017	7/27/2017	Democratic Republic of the Congo	Moderna.	Florida	6/17/2016	8330	N
+Illa Friscia	260462510	3/22/2011	04-09-2011	Czech Republic	Johnson & Johnson's Janssen.	Georgia	5/31/2015	5500	N
+Magdalena Clabaugh	968538653	3/29/2016	04-06-2016	South Africa	mRNA Vaccines.	Hawaii	09-01-2012	965	N
+Sol Lemley	254942739	1/14/2012	02-04-2012	Laos	Viral Vector Vaccines.	Idaho	6/27/2013	2077	N
+Angelyn Nave	563473594	3/17/2013	04-10-2013	China	Pfizer-BioNTech.	Illinois	10/28/2012	3213	N
+Lorie Hempstead	358242547	9/15/2012	11-02-2012	Eritrea	Moderna.	Indiana	4/14/2014	785	N
+Darlena Brubaker	873673427	11/26/2015	12-06-2015	Haiti	Johnson & Johnson's Janssen.	Iowa	03-02-2011	8237	N
+Ivory Almonte	264502561	02-01-2014	3/20/2014	Zambia	mRNA Vaccines.	Kansas	12/24/2012	1040	N
+Keva Sauage	355778777	12/23/2010	1/18/2011	Bosnia and Herzegovina	Viral Vector Vaccines.	Kentucky	5/20/2011	1701	N
+Krystin Morita	792863404	05-10-2011	06-12-2011	Germany	Pfizer-BioNTech.	Louisiana	3/23/2014	4755	N
+Margarito Hintzen	391430270	04-12-2017	5/22/2017	India	Moderna.	Maine	07-01-2011	1770	N
+Alanna Gillispie	287465703	9/23/2016	10/25/2016	Chad	Johnson & Johnson's Janssen.	Maryland	12/22/2016	6344	N
+Alayna Rosenblatt	787268531	02-08-2010	3/14/2010	Latvia	mRNA Vaccines.	Massachusetts	06-02-2011	9108	N
+Deeann Thomsen	917450082	01-10-2014	02-11-2014	Pakistan	Viral Vector Vaccines.	Michigan	07-09-2014	2722	N
+Guy Moulton	674934184	02-03-2012	02-06-2012	Democratic Republic of the Congo	Pfizer-BioNTech.	Minnesota	12/14/2012	6878	N
+Ming Scudder	576957166	09-06-2011	10-11-2011	Czech Republic	Moderna.	Mississippi	03-08-2017	3301	N
+Mickey Espino	311067855	6/18/2017	6/23/2017	South Africa	Johnson & Johnson's Janssen.	Missouri	3/23/2012	746	N
+Mellissa Mortimore	985127580	06-10-2012	6/13/2012	Laos	mRNA Vaccines.	Montana	6/18/2014	9997	N
+Lesia Stoute	177310168	10-10-2014	10/19/2014	China	Viral Vector Vaccines.	Nebraska	10/30/2014	8874	N
+Pauletta Murton	486101949	5/19/2013	06-02-2013	Eritrea	Pfizer-BioNTech.	Nevada	11/23/2012	7224	N
+Solomon Chamberlin	980301749	03-09-2017	4/27/2017	Haiti	Moderna.	New Hampshire	02-04-2013	1927	N
+Neville Yocom	349020898	6/18/2013	6/23/2013	Zambia	Johnson & Johnson's Janssen.	New Jersey	05-05-2013	1895	N
+Vera Edmiston	951683223	1/16/2017	02-01-2017	Bosnia and Herzegovina	mRNA Vaccines.	New Mexico	5/28/2016	3069	N
+Lawerence Amburn	268025052	7/18/2013	8/15/2013	Germany	Viral Vector Vaccines.	New York	12/24/2010	3424	A
+Cedrick Agnew	348095214	2/23/2016	3/15/2016	India	Pfizer-BioNTech.	North Carolina	4/25/2013	7964	A
+Melinda Kuchta	162255036	5/17/2016	07-01-2016	South Africa	Moderna.	North Dakota	6/13/2010	3726	A
+Alma Gelinas	551178348	8/14/2010	9/15/2010	Laos	Johnson & Johnson's Janssen.	Ohio	12/25/2016	4776	A
+Francis Sikes	175851476	6/18/2011	7/20/2011	China	mRNA Vaccines.	Oklahoma	9/20/2010	7214	A
+Minerva Giles	467573249	8/17/2013	9/17/2013	Eritrea	Viral Vector Vaccines.	Oregon	03-05-2012	4170	A
+Nikki Iskra	677954995	11/26/2012	12/25/2012	Haiti	Pfizer-BioNTech.	Pennsylvania	8/24/2012	804	A
+Lore Coil	128920543	07-04-2017	7/17/2017	Zambia	Moderna.	Rhode Island	11-05-2015	9308	A
+Marlena Craner	462706220	12/29/2013	02-03-2014	Bosnia and Herzegovina	Johnson & Johnson's Janssen.	South Carolina	5/30/2011	3908	A
+Darius Trojacek	691860854	6/29/2016	08-04-2016	Germany	mRNA Vaccines.	South Dakota	7/16/2016	5856	A
+Sade Gasaway	349245774	6/24/2017	07-10-2017	India	Viral Vector Vaccines.	Tennessee	8/26/2011	8440	A
+Sybil Rahman	838034808	4/13/2014	05-02-2014	Chad	Pfizer-BioNTech.	Texas	4/13/2012	1978	A
+Zoraida Sumner	481714284	11-10-2012	12/27/2012	Latvia	Moderna.	Utah	05-02-2012	8816	A
+Raina Mccrae	374083030	6/17/2016	7/31/2016	Pakistan	Johnson & Johnson's Janssen.	Vermont	7/22/2010	8336	A
+Elsa Mcspadden	329252374	3/31/2014	4/15/2014	Democratic Republic of the Congo	mRNA Vaccines.	Virginia	4/28/2014	1949	A
+Bernadine Chung	231646144	5/17/2015	5/22/2015	Czech Republic	Viral Vector Vaccines.	Washington	2/27/2013	8097	A
+Francie Frase	486000669	12-04-2014	12/27/2014	South Africa	Pfizer-BioNTech.	West Virginia	10/16/2012	7253	A
+Mariana Vavra	667364776	10/28/2012	11-09-2012	Laos	Moderna.	Wisconsin	3/23/2016	6922	A
+Nakita Primer	871099793	1/26/2010	2/28/2010	China	Johnson & Johnson's Janssen.	Wyoming	5/20/2012	6641	A
+Aletha Hardesty	362879550	07-04-2012	08-06-2012	Eritrea	mRNA Vaccines.	Alabama	03-12-2010	2978	A
+Dwain Sargeant	728690373	11/26/2011	12/17/2011	Haiti	Viral Vector Vaccines.	Alaska	1/25/2012	4529	A
+Thea Hubbs	924831092	06-10-2012	7/29/2012	Zambia	Pfizer-BioNTech.	Arizona	2/14/2010	6927	A
+Caleb Peters	427913033	10/24/2011	11/20/2011	Bosnia and Herzegovina	Moderna.	Arkansas	09-11-2012	7831	A
+Sparkle Kaestner	584860026	7/16/2012	7/22/2012	Germany	Johnson & Johnson's Janssen.	California	3/31/2010	1934	A
+Narcisa Hsieh	562908399	8/28/2010	8/28/2010	India	mRNA Vaccines.	Colorado	01-08-2017	5959	A
+Sherwood Vanalstyne	499606978	08-10-2014	8/22/2014	Chad	Viral Vector Vaccines.	Connecticut	04-05-2014	3662	A
+Jeanice Joy	152817094	03-10-2011	3/16/2011	Latvia	Pfizer-BioNTech.	Delaware	7/19/2014	829	A
+Bert Riter	250712573	10-06-2014	11-11-2014	Pakistan	Moderna.	District of Columbia	08-10-2012	277	A
+Dorotha Aldinger	241779744	6/23/2010	07-11-2010	Democratic Republic of the Congo	Johnson & Johnson's Janssen.	Florida	10/21/2011	6854	A
+Anisha Thomson	544817435	1/13/2011	1/22/2011	Czech Republic	mRNA Vaccines.	Georgia	10-10-2012	2441	A
+Rufus Amerine	298936975	1/23/2015	2/19/2015	South Africa	Viral Vector Vaccines.	Hawaii	3/24/2017	949	A
+Roslyn Alaimo	513562190	11/24/2010	12/22/2010	Laos	Pfizer-BioNTech.	Idaho	7/26/2016	3319	A
+Noelle Raybon	918429410	8/27/2010	9/28/2010	China	Moderna.	Illinois	11-06-2010	2527	A
+Shanae Hanger	413587462	2/28/2016	4/17/2016	Eritrea	Johnson & Johnson's Janssen.	Indiana	7/15/2012	8576	A
+William Hopf	219397675	2/25/2015	4/15/2015	Haiti	mRNA Vaccines.	Iowa	6/15/2012	3503	A
+Adolfo Bella	726533877	5/17/2015	6/27/2015	Zambia	Viral Vector Vaccines.	Kansas	11-05-2013	6374	A
+Xenia Schubert	145982396	6/24/2010	6/24/2010	Bosnia and Herzegovina	Pfizer-BioNTech.	Kentucky	06-11-2013	8290	A
+Brenton Tokarski	359042060	2/16/2014	3/26/2014	Germany	Moderna.	Louisiana	10/31/2012	7379	A
+Hal Bender	167324197	9/30/2010	10/27/2010	India	Johnson & Johnson's Janssen.	Maine	09-01-2014	3803	A
+Geraldine Border	242752635	05-03-2012	06-05-2012	Chad	mRNA Vaccines.	Maryland	4/21/2011	4754	A
+Setsuko Pardo	877563703	10/24/2016	11/23/2016	Latvia	Viral Vector Vaccines.	Massachusetts	4/23/2011	9456	A
+Meghan Sydnor	634306228	10/21/2011	11/24/2011	Pakistan	Pfizer-BioNTech.	Michigan	12/14/2012	4163	A
+Lavern Gard	395841538	4/13/2016	05-05-2016	Democratic Republic of the Congo	Moderna.	Minnesota	7/31/2015	7163	A
+Cyrus Beckham	215343463	3/23/2016	04-02-2016	Czech Republic	Johnson & Johnson's Janssen.	Mississippi	10/20/2015	3771	A
+Leeanne Fortunato	666298329	10/20/2013	11/18/2013	South Africa	mRNA Vaccines.	Missouri	4/21/2011	1337	A
+Nilda Deyoung	592504966	1/18/2016	03-04-2016	Laos	Viral Vector Vaccines.	Montana	03-09-2012	4241	A
+Marylee Greenburg	258074700	11/27/2015	01-07-2016	China	Pfizer-BioNTech.	Nebraska	6/25/2014	8894	A
+Gay Aubert	897431361	03-07-2011	04-09-2011	Eritrea	Moderna.	Nevada	6/28/2011	8738	A
+Janel Carley	665311276	11/18/2015	11/24/2015	Haiti	Johnson & Johnson's Janssen.	New Hampshire	9/20/2012	9246	A
+Damaris Nestle	486763274	01-02-2011	02-02-2011	Zambia	mRNA Vaccines.	New Jersey	5/26/2017	2925	A
+Jeanine Hoerr	907148683	6/23/2016	08-02-2016	Bosnia and Herzegovina	Viral Vector Vaccines.	New Mexico	8/31/2010	4309	A
+Wiley Scotto	742141330	8/23/2011	8/30/2011	Germany	Pfizer-BioNTech.	New York	10/17/2012	4966	A
+Dian Cobian	227727544	10-07-2014	10/25/2014	India	Moderna.	North Carolina	11-06-2014	8496	A
+Brendan Zilnicki	570206153	02-10-2011	3/29/2011	Chad	Johnson & Johnson's Janssen.	North Dakota	9/24/2012	5527	A
+Mana Seegmiller	796188485	4/14/2017	5/13/2017	Latvia	mRNA Vaccines.	Ohio	12/28/2010	8721	A
+Flavia Nitta	902598369	11/23/2016	01-04-2017	Pakistan	Viral Vector Vaccines.	Oklahoma	06-11-2011	7770	A
+Humberto Ware	506672132	4/27/2017	5/20/2017	Democratic Republic of the Congo	Pfizer-BioNTech.	Oregon	12/24/2016	4398	A
+Ned Permenter	195958602	8/28/2015	8/29/2015	Czech Republic	Moderna.	Pennsylvania	8/15/2012	7360	A
+Albertina Junkin	178319108	1/19/2010	02-03-2010	South Africa	Johnson & Johnson's Janssen.	Rhode Island	10-01-2014	7442	A
+Rosia Duron	731927478	02-02-2011	3/18/2011	Laos	mRNA Vaccines.	South Carolina	4/17/2014	2461	A
+Kena Stallings	855270040	04-07-2015	05-07-2015	China	Viral Vector Vaccines.	South Dakota	10/31/2010	2266	A
+Lolita Pringle	517145621	05-10-2016	05-12-2016	Eritrea	Pfizer-BioNTech.	Tennessee	05-12-2016	3736	A
+Kristen Gilley	206665551	10-12-2016	10/17/2016	Haiti	Moderna.	Texas	8/28/2013	5784	A
+Genaro Koga	483253657	3/24/2016	4/14/2016	Zambia	Johnson & Johnson's Janssen.	Utah	1/23/2013	4351	A
+Suzanna Putman	626646268	6/16/2015	7/31/2015	Bosnia and Herzegovina	mRNA Vaccines.	Vermont	11-01-2010	7411	A
+Candy Konieczny	886892211	07-03-2012	07-11-2012	Germany	Viral Vector Vaccines.	Virginia	8/31/2015	9969	A
+Ozella Conner	234352815	1/17/2014	1/26/2014	India	Pfizer-BioNTech.	Washington	7/31/2014	9061	A
+Leonel Hock	409701907	6/16/2016	7/18/2016	Chad	Moderna.	West Virginia	08-12-2014	8754	A
+Vannesa Millard	973925817	03-10-2017	04-05-2017	Latvia	Johnson & Johnson's Janssen.	Wisconsin	4/14/2016	5147	A
+Melonie Villacorta	658323371	12/17/2010	01-12-2011	Pakistan	mRNA Vaccines.	Wyoming	5/24/2017	1370	A
+Dorine Zeitler	514505898	4/13/2016	5/16/2016	Democratic Republic of the Congo	Viral Vector Vaccines.	Alabama	10/22/2016	2584	A
+Bridget Conyers	764397227	1/26/2011	03-01-2011	Czech Republic	Pfizer-BioNTech.	Alaska	8/31/2010	981	A
+Jacklyn Dyment	350233685	03-06-2012	04-06-2012	South Africa	Moderna.	Arizona	4/29/2011	785	A
+Felicita Maclachlan	984564101	01-07-2011	1/20/2011	Laos	Johnson & Johnson's Janssen.	Arkansas	04-09-2013	3252	N
+Herbert Gamache	400249803	3/17/2015	4/21/2015	China	mRNA Vaccines.	California	1/20/2012	1666	N
+Antonietta Llewellyn	900464618	07-02-2014	08-06-2014	Eritrea	Viral Vector Vaccines.	Colorado	8/27/2015	6346	N
+Pennie Alling	808694875	11-11-2014	11/30/2014	Haiti	Pfizer-BioNTech.	Connecticut	5/22/2010	9639	N
+Laree Kay	318739402	12/18/2011	1/17/2012	Zambia	Moderna.	Delaware	2/25/2010	927	N
+Antonio Navarette	144709527	02-10-2010	03-05-2010	Bosnia and Herzegovina	Johnson & Johnson's Janssen.	District of Columbia	10-04-2014	1620	N
+Steve Mainor	171029078	11/22/2010	01-04-2011	Germany	mRNA Vaccines.	Florida	9/20/2013	160	N
+Gertrud Sather	802434384	12/15/2016	1/31/2017	India	Viral Vector Vaccines.	Georgia	10-07-2012	7021	N
+Nan Beverley	713974273	02-01-2013	03-04-2013	South Africa	Pfizer-BioNTech.	Hawaii	11/27/2014	9708	N
+Walter Belford	901010072	06-06-2015	06-10-2015	Laos	Moderna.	Idaho	8/19/2016	7758	N
+Colby Hobart	629215610	09-05-2014	9/19/2014	China	Johnson & Johnson's Janssen.	Illinois	9/24/2011	7736	N
+Patrick Nocera	584577214	03-05-2010	3/27/2010	Eritrea	mRNA Vaccines.	Indiana	03-06-2010	8243	N
+Hilary Modeste	623393714	09-06-2013	10-02-2013	Haiti	Viral Vector Vaccines.	Iowa	09-04-2011	4908	N
+Elke Licht	222276437	4/22/2015	5/30/2015	Zambia	Pfizer-BioNTech.	Kansas	12/22/2016	5392	N
+Faustina Dunson	728149211	01-03-2010	01-12-2010	Bosnia and Herzegovina	Moderna.	Kentucky	7/18/2016	4387	N
+Tara Clingman	408248364	7/13/2016	7/16/2016	Germany	Johnson & Johnson's Janssen.	Louisiana	1/21/2017	8618	N
+Elva Hochmuth	300122725	1/13/2013	02-04-2013	India	mRNA Vaccines.	Maine	11/22/2014	1839	N
+Opal Groover	161633622	08-09-2016	09-09-2016	Chad	Viral Vector Vaccines.	Maryland	1/26/2015	9836	N
+Maryln Ferris	720954883	4/26/2011	5/30/2011	Latvia	Pfizer-BioNTech.	Massachusetts	4/23/2012	5426	N
+Katrina Almon	526572835	08-06-2012	9/23/2012	Pakistan	Moderna.	Michigan	7/19/2017	3458	N
+Stephane Labelle	897286307	06-10-2010	07-07-2010	Democratic Republic of the Congo	Johnson & Johnson's Janssen.	Minnesota	04-12-2016	5813	N
+Christene Gloria	972206628	1/16/2011	2/27/2011	Czech Republic	mRNA Vaccines.	Mississippi	3/17/2010	6401	N
+Araceli Majewski	860757625	4/26/2010	06-12-2010	South Africa	Viral Vector Vaccines.	Missouri	6/17/2013	6164	N
+Marilou Funderburg	292675626	10/20/2012	11-02-2012	Laos	Pfizer-BioNTech.	Montana	12-10-2010	8076	N
+America Tocci	868009459	10-02-2012	11/21/2012	China	Moderna.	Nebraska	2/15/2015	2143	N
+Erich Ragin	207120454	1/21/2013	2/17/2013	Eritrea	Johnson & Johnson's Janssen.	Nevada	10/28/2016	400	N
+Neoma Pellegrino	500682437	11/16/2013	11/21/2013	Haiti	mRNA Vaccines.	New Hampshire	9/18/2011	1914	N
+Sid Lamore	859681737	06-11-2016	6/19/2016	Zambia	Viral Vector Vaccines.	New Jersey	09-03-2011	7785	N
+Stella Morman	465417182	9/13/2011	10/30/2011	Bosnia and Herzegovina	Pfizer-BioNTech.	New Mexico	9/19/2010	6142	N
+Ha Durrah	819500100	05-12-2014	6/26/2014	Germany	Moderna.	New York	6/29/2011	7146	N
+Chantel Absher	793854320	9/16/2013	10-03-2013	India	Johnson & Johnson's Janssen.	North Carolina	12-07-2013	7989	N
+Torri Wert	680716168	3/28/2015	05-07-2015	Chad	mRNA Vaccines.	North Dakota	6/17/2011	7896	N
+Michelina Holscher	842634475	2/19/2014	3/17/2014	Latvia	Viral Vector Vaccines.	Ohio	6/28/2017	3121	N
+Verlene Arviso	362470567	04-01-2014	04-05-2014	Pakistan	Viral Vector Vaccines.	Oklahoma	3/21/2016	1950	N
+Lois Tew	193398272	09-05-2016	10/16/2016	Democratic Republic of the Congo	Pfizer-BioNTech.	Oregon	11-02-2011	9701	N
+Miguelina Hoyte	908903920	1/16/2016	1/31/2016	Czech Republic	Moderna.	Pennsylvania	03-01-2017	3723	N
+Evelina Willaert	452786338	10/14/2011	11/29/2011	South Africa	Johnson & Johnson's Janssen.	Rhode Island	01-09-2012	8394	N
+Ranae Topp	889156854	01-03-2012	1/15/2012	Laos	mRNA Vaccines.	South Carolina	2/25/2015	127	N
+Carolann Veasley	752439296	07-04-2014	08-07-2014	China	Viral Vector Vaccines.	South Dakota	4/13/2012	2363	N
+Jeannette Gravelle	897369992	7/29/2010	09-11-2010	Eritrea	Pfizer-BioNTech.	Tennessee	12-06-2012	577	N
+Lenita Slevin	448997771	07-04-2011	7/17/2011	Haiti	Moderna.	Texas	4/26/2016	7273	N
+Valentina Quinby	852683961	07-02-2014	7/28/2014	Zambia	Johnson & Johnson's Janssen.	Utah	2/24/2015	6987	N
+Latoyia Bushway	924102389	1/18/2014	1/21/2014	Bosnia and Herzegovina	mRNA Vaccines.	Vermont	7/27/2014	1287	N
+Keitha Wold	899239385	04-11-2013	5/14/2013	Germany	Viral Vector Vaccines.	Virginia	3/13/2013	3772	N
+Flora Plascencia	184393775	08-02-2012	09-08-2012	India	Pfizer-BioNTech.	Washington	07-09-2014	5071	N
+Azucena Herder	506176888	06-12-2013	6/16/2013	Chad	Moderna.	West Virginia	07-04-2015	7845	N
+Kathi Lilienthal	961512553	08-07-2014	8/15/2014	Latvia	Johnson & Johnson's Janssen.	Wisconsin	5/28/2010	1786	N
+Andrea Saine	267637097	11-11-2015	12/21/2015	Pakistan	mRNA Vaccines.	Wyoming	04-02-2017	4567	N
